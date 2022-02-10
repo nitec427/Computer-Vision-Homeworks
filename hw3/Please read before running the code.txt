@@ -1,0 +1,11 @@
+Please move part1.py to part1 and part2.py to part2 folder.
+Then move matrices folder content to both part1 and part2. 
+
+NOTE: Network outputs are saved to part2 folder. Also, canny images are saved to part1/images folder, along with ground truth results.
+
+The reason is in the first place, I wrote my code while matrices were in the code directory. And, I didn't change this part. So in order to save the space  matrices are seperated at the end.
+
+Thank you and have a nice day.
+
+İsmail Çetin
+150180065
